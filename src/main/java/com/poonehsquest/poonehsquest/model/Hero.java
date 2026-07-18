@@ -5,3 +5,4 @@ public class Hero {
     String heroPicUrl = "/pics/kommerSen.png";
     int heroHealth = 400;
 }
+
