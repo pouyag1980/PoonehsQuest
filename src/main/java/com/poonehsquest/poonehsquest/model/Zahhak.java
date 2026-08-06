@@ -6,6 +6,6 @@ public class Zahhak extends Monster{
         numberOfMonsterAttacks = 3;
         monsterMinDamage = 35;
         monsterMaxDamage = 50;
-        monsterPicUrl = "/pics/ComesLater.png";
+        monsterPicUrl = "/pics/zahhak.png";
     }
 }

@@ -3,7 +3,7 @@ package com.poonehsquest.poonehsquest.model;
 public class Armor extends Item{
     public  Armor (){
         itemName = "Armor";
-        itemPicUrl = "/pics/senare.png";
+        itemPicUrl = "/pics/armor.PNG";
         addedHealth = 85;
     }
 }

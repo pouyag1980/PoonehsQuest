@@ -3,7 +3,7 @@ package com.poonehsquest.poonehsquest.model;
 public class Potion extends Item {
     public Potion() {
         itemName = "Potion";
-        itemPicUrl = "/pics/dryck.png";
+        itemPicUrl = "/pics/potion.PNG";
 
     }
 
