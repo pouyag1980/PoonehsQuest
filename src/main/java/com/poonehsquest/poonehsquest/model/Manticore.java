@@ -6,6 +6,6 @@ public class Manticore extends Monster{
         numberOfMonsterAttacks = 1;
         monsterMinDamage = 35;
         monsterMaxDamage = 50;
-        monsterPicUrl = "/pics/finnsEj.png";
+        monsterPicUrl = "/pics/manticore.png";
     }
 }
